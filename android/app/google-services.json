@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30977785866",
+    "project_id": "fir-bookmark-618ef",
+    "storage_bucket": "fir-bookmark-618ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30977785866:android:3d028ba8e82dda66185ff3",
+        "android_client_info": {
+          "package_name": "com.example.instagram_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuE9tzJdd9pIfsEpQ8ykcEqKo1AXqNJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
